@@ -8,7 +8,7 @@
 
 // Uncomment module below for implement
 
-// pub mod vector;
+pub mod vector;
 // pub mod list;
 // pub mod stack;
 // pub mod queue;
