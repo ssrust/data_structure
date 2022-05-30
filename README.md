@@ -8,3 +8,25 @@
   - 이름: issue_${Issue No.}
   - Branch from: Issue 발생한 브랜치
   - 완료 이후: 해당 issue가 유효한 last commit에 merge
+## [구현할 자료구조들](https://en.wikipedia.org/wiki/List_of_data_structures)
+  - 선형
+    - Vector: growable array
+    - 리스트
+      - 단일 연결
+      - 이중 연결
+    - 스택
+    - 큐
+    - 우선순위 큐
+    - 덱
+    - Double-ended 우선순위 큐
+  - 연관형
+    - 집합
+      - 기반: 해시/이진탐색트리
+    - 연관 배열
+      - 기반: 해시/이진탐색트리
+      - element: unique/중복가능
+  - 비선형
+    - 그래프
+    - 트리
+      - 이진트리
+      - k진 트리
